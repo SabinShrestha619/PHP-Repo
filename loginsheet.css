@@ -1,0 +1,107 @@
+.border{
+	border: 1px solid background;
+	border-color: olive;
+	margin: auto;
+	width: 400px;
+	padding: 20px 10px 30px 10px;
+	background-color: white;
+}
+
+.name{
+	font-style: bold;
+	font-size: 16px;
+	text-align: center;
+	color: teal;
+}
+
+.username{
+	font-size: 14px;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 30px;
+	font-weight: bold;
+}
+
+.placeholder{
+	color: black;
+	text-align: center;
+}
+
+.password{
+	font-size: 14px;
+	text-align: center;	
+	margin-bottom: 30px;
+	font-weight: bold;
+}
+
+.login{
+	text-align: center;
+}
+
+.button{
+	background-color: teal;
+	color: white;
+	width: 150px;
+	font-weight: bold;
+	height: 30px;
+	cursor: pointer;
+}
+
+.login:hover{
+	opacity: 0.6;
+	transition: .3s;
+}
+
+.remember{
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+
+.hover{
+	margin-top: 30px;
+}
+
+.cancel:hover{
+	opacity: 3;
+}
+
+.cancelbutton{
+	background-color: red;
+	width: 100px;
+	color: white;
+	font-weight: bold;
+	height: 30px;
+	cursor: pointer;
+}
+
+.cancelbutton:hover{
+	opacity: 0.6;
+	transition: .3s;
+}
+
+.signup{
+	text-align: center;
+}
+
+.signbutton{
+	font-weight: bold;
+	background-color: olive;
+	color: white;
+	width: 100px;
+	height: 30px;
+	float: right;
+	cursor: pointer;
+	text-decoration: none;
+	text-align: center;
+}
+
+.signbutton:hover{
+	opacity: 0.6;
+	transition: .3s;
+}
+
+.forgot{
+	font-weight: bold;
+	margin-top: 30px;
+}

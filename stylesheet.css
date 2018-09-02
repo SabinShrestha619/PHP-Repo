@@ -1,0 +1,70 @@
+.subtopic{
+	margin-top: -20px;
+}
+
+.nav{
+	background-color: #9ACD32;
+	height: 40px;
+	margin-top: 40px;
+}
+
+.batch14{
+	font-size: 35px;
+	text-decoration: none;
+	border: 2px solid #FFFFF0;
+	padding: 2px;
+	color: black;
+	margin-left: 100px;	
+}
+
+.batch15{
+	font-size: 35px;
+	text-decoration: none;
+	border: 2px solid #FFFFF0;
+	padding: 2px;
+	color: black;
+	margin-left: 35px;
+}
+
+.batch16{
+	font-size: 35px;
+	text-decoration: none;
+	border: 2px solid #FFFFF0;
+	padding: 1px;
+	color: black;
+	margin-left: 35px;
+}
+
+.batch17{
+	font-size: 35px;
+	text-decoration: none;
+	border: 2px solid #FFFFF0;
+	padding: 1px;
+	margin: 10px;
+	color: black;
+	margin-left: 35px;
+}
+
+.batch14:hover{
+	background-color:#FFFFF0;
+	cursor: pointer;
+	transition: .4s;
+}
+
+.batch15:hover{
+	background-color:#FFFFF0;
+	cursor: pointer;
+	transition: .4s;
+}
+
+.batch16:hover{
+	background-color:#FFFFF0;
+	cursor: pointer;
+	transition: .4s;
+}
+
+.batch17:hover{
+	background-color:#FFFFF0;
+	cursor: pointer;
+	transition: .4s;
+}
